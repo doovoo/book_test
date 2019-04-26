@@ -1,4 +1,9 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [Study](README.md)
+
+## PHP
+
+* [Magic function](php/magic-function-1.md)
+* [Variables](php/variables.md)
 

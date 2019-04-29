@@ -9,7 +9,8 @@ description: Minchul Kim's study book
 * PHP
 
 1. [Variables](php/variables.md)
-   1. [$SERVER](php/variables.md#1-usd_server-usdhttp_server_vars-removed)
+   1. [$\_SERVER](php/variables.md#1-usd_server-usdhttp_server_vars-removed)
+   2. \*\*\*\*[A few "magical" PHP constants](php/variables.md#2-a-few-magical-php-constants)
 2. [Magic function](php/magic-function.md)
    1. [\_\_sleep\(\), \_\_wakeup\(\)](php/magic-function.md#1-__sleep-__wakeup)
    2. [\_\_toString\(\)](php/magic-function.md#2-__tostring)

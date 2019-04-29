@@ -11,7 +11,7 @@ chdir($_SERVER['DOCUMENT_ROOT']);   // '/var/www/html'
 define('DRUPAL_ROOT', getcwd());    // DRPAL_ROOT = 'var/www/html'
 ```
 
-* **A few "magical" PHP constants**
+## **2. A few "magical" PHP constants**
 
 | Name | Description |
 | :--- | :--- |

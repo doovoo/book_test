@@ -26,7 +26,7 @@ description: 이것저것
 {% code-tabs %}
 {% code-tabs-item title="test.php" %}
 ```php
-<?php
+<?php
     require 'vendor/autoload.php';
     ...
 ?>

@@ -9,7 +9,7 @@ description: 이것저것
 {% code-tabs %}
 {% code-tabs-item title="composer.json" %}
 ```javascript
-
+{
     "name": "[vender name]/[dir]",
     "description": "[설명]",
     "require": {

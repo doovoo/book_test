@@ -19,4 +19,6 @@
 * [Framework](java/framework/README.md)
   * [Spring](java/framework/spring/README.md)
     * [MVC](java/framework/spring/mvc.md)
+  * [Spring Boot](java/framework/spring-boot/README.md)
+    * [Controller](java/framework/spring-boot/controller.md)
 
